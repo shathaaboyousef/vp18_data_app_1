@@ -1,0 +1,22 @@
+{
+  "login_hint": "مرحباً بك مجدداً ...",
+  "login_massage": "أدخل البريد وكلمة المرور",
+  "login":"تسجيل الدخول",
+  "email" : "البريد",
+  "password": "كلمة المرور",
+  "password_again": "كلمة المرور مجدداً",
+  "email_hint" : "أدخل البريد الإلكتروني الخاص بك ",
+  "password_hint" : "أدخل كلمة المرور الخاصة بك ",
+  "language_hint": " اختر لغتك",
+  "language_massage": "اختر اللغة المناسبة لك ",
+  "confirm_hint": "هل أنت متأكد ؟",
+  "confirm_massage": "سيتم تسجيل خروجك",
+  "yes": "نعم",
+  "no": "لا",
+  "sign_in": "تسجيل الإشتراك",
+  "have_an_account": "لديك حساب ؟",
+  "no_account": "ليس لديك حساب  ؟",
+  "register_hint": "مرحباً بكـ   معنا ",
+  "register_massage": "أدخل اسمك و البريد وكلمة المرور",
+  "full_name": "الإسم الكامل"
+}

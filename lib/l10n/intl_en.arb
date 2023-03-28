@@ -1,0 +1,22 @@
+{
+  "login_hint": "Welcome back ...",
+  "login_massage": "Enter email & password",
+  "login":"Login",
+  "email" : "Email",
+  "email_hint" : "Enter your email",
+  "password_hint" : "Enter your password",
+  "password_again": "Enter your password again",
+  "password": "Password",
+  "language_hint": "Choose your language",
+  "language_massage": "Select sutiable language ",
+  "confirm_hint": "Are you sure ?",
+  "confirm_massage": "You will be logged out ",
+  "yes": " Yes",
+  "no": "No",
+  "sign_in": "Sign in",
+  "have_an_account": "Have an account ?",
+  "no_account": "Don't have an account ?",
+  "register_hint": "Welcome to join us ... ",
+  "register_massage": "Enter  your name ,email and password ",
+  "full_name": "Full name"
+}
